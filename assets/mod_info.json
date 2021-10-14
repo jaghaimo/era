@@ -1,13 +1,13 @@
 {
-    "id": "mymodid",
-    "name": "My Starsector Mod",
-    "author": "My Name",
+    "id": "era",
+    "name": "Engagement Reputation Adjustment",
+    "author": "Jaghaimo",
     "utility": true,
     "version": "1.0.0",
-    "description": "This is my mod that mods the game.",
+    "description": "Enemy of my enemy becomes my friend",
     "gameVersion": "0.95a-RC15",
-    "modPlugin": "mymodid.MymodMod",
+    "modPlugin": "era.EraMod",
     "jars": [
-        "mymodid.jar"
+        "era.jar"
     ]
 }
