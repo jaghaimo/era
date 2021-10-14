@@ -1,0 +1,20 @@
+# Local development files
+.classpath
+.gradle/
+.project
+.settings/
+/*.zip
+bin/
+build/
+gradle.properties
+# VSCode
+.vscode/**/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# Local copies of mod structure (dev env)
+/*.jar
+/data
+/graphics
+/mod_info.json
